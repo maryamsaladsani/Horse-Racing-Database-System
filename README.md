@@ -1,6 +1,6 @@
 # Horse Racing Database System
 
-A comprehensive database management system for horse racing operations, developed as part of ICS321 Project #1.
+A comprehensive database management system for horse racing operations.
 
 ## 📋 Project Overview
 
@@ -174,9 +174,9 @@ ORDER BY total_winnings DESC;
 | Name              | GitHub                                                                  |
 |-------------------|-------------------------------------------------------------------------|
 | [Maryam Aladsani] | [maraymsaladsani](https://github.com/your-github-maraymsaladsani) | 
-| [Somaia Khawaji]  | [@username2](https://github.com/username2)                              | 
+| [Somaia Khawaji]  | [Somai22](https://github.com/Somai22)                              | 
 
-
+Developed as part of ICS321 Project #1.
 
 ## 📄 License
 
