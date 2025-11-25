@@ -173,8 +173,8 @@ ORDER BY total_winnings DESC;
 
 | Name              | GitHub                                                                  |
 |-------------------|-------------------------------------------------------------------------|
-| [Maryam Aladsani] | [maraymsaladsani](https://github.com/your-github-maraymsaladsani) | 
-| [Somaia Khawaji]  | [Somai22](https://github.com/Somai22)                              | 
+|  Maryam Aladsani  | [maraymsaladsani](https://github.com/your-github-maraymsaladsani) | 
+|  Somaia Khawaji   | [Somai22](https://github.com/Somai22)                              | 
 
 Developed as part of ICS321 Project #1.
 
